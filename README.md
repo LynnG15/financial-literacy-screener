@@ -11,8 +11,7 @@ Unlike traditional stock screeners, this project is **not an investment advisory
 
 ⚖️ **Strategic Significance:**  
 - Supports national goals of **investor education and protection**.  
-- Provides an **open-source framework** that can be adopted by libraries, universities, and community organizations.  
-- Demonstrates the applicant’s unique combination of **analytics expertise and educational focus**, strengthening the NIW argument for substantial merit and national importance.  
+- Provides an **open-source framework** that can be adopted by libraries, universities, and community organizations.   
 
 
 ---  
