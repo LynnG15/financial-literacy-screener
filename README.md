@@ -1,7 +1,7 @@
 # Financial Literacy Screener for Everyday Beginner Investors  
 ### A Stock-Education Dashboard for Fundamentals, Valuation, and Technicals  
 
-## 📌 Formal Description (Professional Version)  
+## 📌 Formal Description   
 
 The **Financial Literacy Screener for Everyday Beginner Investors** is an open-source educational initiative focused on promoting **financial literacy and investor protection** in the United States.  
 
